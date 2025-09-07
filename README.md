@@ -114,7 +114,7 @@ Users are encouraged to evaluate it carefully for their specific use cases.
 ## 📚 Paper
 
 This model is described in detail in the accompanying paper:  
-📄 [BwETAFv3: Efficient Autoregressive Language Modeling with 97M Parameters](BwETAFv3.pdf)
+📄 [BwETAFv3: Efficient Autoregressive Language Modeling with 97M Parameters](https://drive.google.com/file/d/1pn9cNypl_hSthIgumnVfSr7tJ9aXU2Cu/view)
 
 The paper covers:  
 - Architecture overview  
